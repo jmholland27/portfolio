@@ -2036,8 +2036,7 @@ input, select, textarea {
 
 		footer.major {
 			border-bottom-width: 1px;
-			border-color: rgba(250, 138, 114, 0.75);
-			/* border-color: rgba(224, 224, 224, 0.75); */
+			border-color: rgba(224, 224, 224, 0.75);
 			border-style: solid;
 			border-top-width: 1px;
 			margin-top: 6em;
@@ -2046,8 +2045,7 @@ input, select, textarea {
 		}
 
 			footer.major:before, footer.major:after {
-				border-color: rgba(250, 138, 114, 0.75);
-				/* background: rgba(224, 224, 224, 0.75); */
+				background: rgba(224, 224, 224, 0.75);
 				content: '';
 				display: block;
 				height: 1px;
@@ -2798,7 +2796,9 @@ input, select, textarea {
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #4eb980;
+		background-color: #FA8072;
+		/* background-color: #4eb980; */
+
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
