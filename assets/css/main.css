@@ -3327,3 +3327,7 @@ input, select, textarea {
   width: 35%;
   height: auto;
 }
+
+.workexp {
+	justify-content: center;
+}
