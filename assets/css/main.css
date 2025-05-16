@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+grid {
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+
 /* Basic */
 
 	html {
