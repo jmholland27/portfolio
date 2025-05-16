@@ -3304,19 +3304,6 @@ input, select, textarea {
 	}
 
 
-.image-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 15px;
-}
-
-/* .image-grid img {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-  border-radius: 8px;
-} */
-
 .headshot {
   width: 20%;
   height: auto;
