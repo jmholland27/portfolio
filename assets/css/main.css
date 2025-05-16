@@ -3316,3 +3316,9 @@ input, select, textarea {
   object-fit: cover;
   border-radius: 8px;
 }
+
+.headshot {
+  width: 20%;
+  height: auto;
+  border-radius: 100px;
+}
