@@ -3320,7 +3320,7 @@ input, select, textarea {
 .headshot {
   width: 25%;
   height: auto;
-  border-radius: 500px;
+  border-radius: 50%;
 }
 
 .cert-badge {
