@@ -3327,3 +3327,8 @@ input, select, textarea {
   width: 35%;
   height: auto;
 }
+
+.tech-stack-logo {
+  width: 15%;
+  height: auto;
+}
