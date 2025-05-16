@@ -3329,6 +3329,5 @@ input, select, textarea {
 }
 
 .tech-stack-logo {
-  width: 80%;
-  height: auto;
+	justify-content: center;
 }
