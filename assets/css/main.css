@@ -3316,5 +3316,10 @@ input, select, textarea {
 }
 
 .workexp {
-	justify-content: center;
+	object-fit: contain;
+}
+
+.tech-stack {
+	width: 80%;
+	height: auto;
 }
